@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="baseURL"/>
+		<item key="selection" value="getMemberValue"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="getMemberValue"/>
+			<item value="getMemberValueAsString"/>
 			<item value="baseURL"/>
 			<item value="apiRespTimes"/>
 			<item value="postalCodeTAF"/>
@@ -16,10 +18,10 @@
 			<item value="fullNameTAF"/>
 			<item value="emailTAF"/>
 			<item value="countryTAF"/>
-			<item value="getMemberValueAsString"/>
 			<item value="piplResponse"/>
 		</list>
 		<list key="replacehistory">
+			<item value=""/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
